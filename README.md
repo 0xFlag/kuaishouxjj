@@ -10,4 +10,6 @@ https://github.com/0xFlag/spiderPy3/tree/master/kuaishou_parse
 </br></br>
 用于学习，注意身体，请自备营养快线
 </br>
-2020/04/07
+2020/04/07</br>
+没时间更新了，更多专注网络安全</br>
+2020/10/12
